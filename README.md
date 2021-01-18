@@ -9,6 +9,20 @@ Database hosted by: MongoDB Atlas Backend hosted by: Heoku Frontend hosted by: N
 ## DEMO
 Hosted by Netlify: [Demo](https://shopify-image-repo.netlify.app/)
 
+## Key Features
+
+1. Search for Images
+
+2. Upload Images
+
+3. Store Images
+
+4. Sort Images
+
+5. Images Grid View
+
+6. Dynamic UI
+
 ## Project setup
 ```
 npm install
