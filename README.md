@@ -1,4 +1,4 @@
-## Shopify Image Repository 
+## Shopify Image Repository - UI
 
 An image repository that allows users to upload images to store. Users can then search for similar images or sort them.
 
