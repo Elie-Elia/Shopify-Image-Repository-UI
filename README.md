@@ -5,8 +5,11 @@ An image repository that allows users to upload images to store. Users can then 
 This project was developed using Node.js, MongoDB and Vue.js.
 
 [Backend Server Repository](https://github.com/Elie-Elia/Shopify-Image-Repository-Server)
-Backend hosted by: Heoku
+
+Backend hosted by: Heroku
+
 Frontend hosted by: Netlify
+
 Database hosted by: MongoDB Atlas  
 
 ## DEMO
