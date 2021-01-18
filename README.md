@@ -1,3 +1,14 @@
+## Shopify Image Repository 
+
+An image repository that allows users to upload images to store. Users can then search for similar images or sort them.
+
+This project was developed using Node.js, MongoDB and Vue.js.
+
+Database hosted by: MongoDB Atlas Backend hosted by: Heoku Frontend hosted by: Netlify
+
+## DEMO
+Hosted by Netlify: [Demo](https://shopify-image-repo.netlify.app/)
+
 ## Project setup
 ```
 npm install
