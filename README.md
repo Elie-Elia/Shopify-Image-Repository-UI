@@ -35,7 +35,9 @@ Hosted by Netlify: [Demo](https://shopify-image-repo.netlify.app/)
 ![](https://i.ibb.co/T8SS1rH/submit.png)
 
 ### Image Gallery
+
 Submitted images will be displayed. Here's a collection of my Shopify store's home lighting top-sellers:
+
 ![](https://i.ibb.co/ScXL19H/imagegallery.png)
 
 
