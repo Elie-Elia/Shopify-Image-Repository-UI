@@ -29,6 +29,16 @@ Hosted by Netlify: [Demo](https://shopify-image-repo.netlify.app/)
 
 6. Dynamic UI
 
+## Screenshots
+
+### Submit Images
+![](https://ibb.co/Wyww0sc)
+
+### Image Gallery
+Submitted images will be displayed. Here's a collection of my Shopify store's home lighting top-sellers:
+
+
+
 ## Project setup
 ```
 npm install
