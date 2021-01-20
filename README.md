@@ -40,6 +40,12 @@ Submitted images will be displayed. Here's a collection of my Shopify store's ho
 
 ![](https://i.ibb.co/ScXL19H/imagegallery.png)
 
+### Search Functionality
+
+You'll be able to search images by title, description, or tags (ex: food, travel, school, sports, etc).
+
+![](https://i.ibb.co/9r3VPfC/Infinityfloor-lamp.png)
+
 
 ## Project setup
 ```
